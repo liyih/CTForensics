@@ -1,2 +1,2 @@
 # CTForensics
-CTForensics: A Comprehensive Dataset and Method for AI-Generated CT Image Detection
+This is the official repo of CTForensics. Dataset, codes and weights will be released after paper accepted.
